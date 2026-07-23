@@ -1,0 +1,60 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#135b8a"></stop>
+    <stop offset="100%" stop-color="#1f6ea3"></stop>
+</linearGradient>
+
+<linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#123f63"></stop>
+    <stop offset="100%" stop-color="#195a8d"></stop>
+</linearGradient>
+
+<linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0b2037"></stop>
+    <stop offset="100%" stop-color="#123f63"></stop>
+</linearGradient>
+
+<!-- Black Shadow -->
+<filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.85"></feDropShadow>
+</filter>
+
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="260" fill="url(#bg)"></rect>
+
+<!-- Name -->
+<text x="600" y="105" font-family="Segoe UI" font-size="64" font-weight="700" text-anchor="middle" fill="#000000" opacity="0.35" transform="translate(3,4)">
+Vahid Yavari
+</text>
+
+<text x="600" y="105" font-family="Segoe UI" font-size="64" font-weight="700" text-anchor="middle" fill="#ffffff" filter="url(#shadow)">
+Vahid Yavari
+</text>
+
+<!-- Subtitle -->
+<text x="600" y="165" font-family="Segoe UI" font-size="24" font-weight="500" text-anchor="middle" fill="#eaf8ff">
+Hi there! 👋
+</text>
+
+<!-- Back Wave -->
+<path fill="url(#wave1)">
+<animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+M0,200 C250,170 500,230 750,200 C950,180 1100,190 1200,210 L1200,260 L0,260 Z;
+M0,190 C250,220 500,180 750,215 C950,230 1100,180 1200,200 L1200,260 L0,260 Z;
+M0,200 C250,170 500,230 750,200 C950,180 1100,190 1200,210 L1200,260 L0,260 Z"></animate>
+</path>
+
+<!-- Front Wave -->
+<path fill="url(#wave2)">
+<animate attributeName="d" dur="5s" repeatCount="indefinite" values="
+M0,225 C220,245 450,200 700,225 C900,245 1050,215 1200,240 L1200,260 L0,260 Z;
+M0,240 C220,210 450,245 700,210 C900,195 1050,245 1200,220 L1200,260 L0,260 Z;
+M0,225 C220,245 450,200 700,225 C900,245 1050,215 1200,240 L1200,260 L0,260 Z"></animate>
+</path>
+
+</svg>
