@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,50:3B82F6,100:8B5CF6&height=3&section=footer"/>
 </p>
-## 📫 Connect with Me
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vahidyavari">
