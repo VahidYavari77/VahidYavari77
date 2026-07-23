@@ -10,15 +10,15 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vahidyavari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vahid%20Yavari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vahidyavari">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:atoo77vahid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-atoo77vahid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://t.me/Atoovahid" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Atoovahid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/Atoovahid">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
