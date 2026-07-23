@@ -1,7 +1,9 @@
 <p align="center">
   <img src="vahidyavari.svg" width="100%" />
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2200&pause=1500&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Vahid+Yavari;ASP.NET+Core+Developer;Building+Scalable+Web+Applications;C%23+•+.NET+•+SQL+Server+•+EF+Core+•+Web+API"/>
+</p>
 <!--
 **VahidYavari77/VahidYavari77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
